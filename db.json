@@ -12,5 +12,15 @@
                 "music": true
             }
         }
+    ],
+    "organizers": [
+        {
+            "id": 1,
+            "name": "Mr. O"
+        },
+        {
+            "id": 2,
+            "name": "Miss Keeper"
+        }
     ]
 }
